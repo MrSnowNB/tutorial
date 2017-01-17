@@ -1,3 +1,5 @@
+//first 2 solutions working
+
 //console.log("HELLO WORLD")
 
 
